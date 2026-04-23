@@ -1,2 +1,5 @@
 # practice-pro-
-To practice programming every day
+To practice programming every day.
+
+project-1 :  Expense Tracker
+
