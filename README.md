@@ -1,7 +1,7 @@
 # practice-pro-
 🏆 Daily Challenges to Level Up:
 
-project-1 : 
+# project-1 : 
 
 ## 💰 Personal Expense Tracker
 
@@ -25,3 +25,6 @@ A sleek, functional web application to manage your finances. This tool allows us
 2. Enter the amount (use *negative numbers* for expenses, e.g., `-50.00`).
 3. Click "Add Transaction" to see your balance update instantly!
 
+
+
+# project-2 :
